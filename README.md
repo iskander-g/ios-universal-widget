@@ -9,7 +9,7 @@ and ```run universalwidget.xcworkspace```
 
 
 ## Received json format
-> {  
+```{  
    "title":"Title",
    "type":"list",
    "date":"23.12.2015 14:06",
@@ -27,7 +27,7 @@ and ```run universalwidget.xcworkspace```
          "value":"Значение 2"
       }
    ]
-}
+}```
 
 
 ## Licence
