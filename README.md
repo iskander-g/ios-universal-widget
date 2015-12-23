@@ -6,7 +6,10 @@
 and ```run universalwidget.xcworkspace```
 
 ## How to use
-
+1. Add URL to json page through tab "Добавить JSON" (tap button "+")
+2. For viewing the results, select the cell
+3. For adding the widget tap button "Виджеты" and check on desired json file
+4. Add widget on notification bar (maximum - 4 widget)
 
 ## Received json format
 ```{  
